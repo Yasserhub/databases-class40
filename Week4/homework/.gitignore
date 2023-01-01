@@ -1,2 +1,3 @@
 node_modules,
-ex1-aggregation
+ex1-aggregation,
+.env
